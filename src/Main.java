@@ -2,12 +2,28 @@ import java.util.*;
 
 public class Main{
     public static void main(String[] args) {
-        Scanner in = new Scanner (System.in);
-        int a, b;
+        Scanner in = new Scanner (System.in);//ввод
+        int a, h, m;
+        String mr, sr;
         a = in.nextInt();
-        b = in.nextInt();
-        int c = a + b;
-        System.out.println(c);
+        h = a / 3600;
+        a -= h*3600;
+        m = a / 60;
+        a -= m*60;
+        h = h % 24;
+        if (m < 10) {
+            mr = "0" + String.valueOf(m);
+        } else {
+            mr = String.valueOf(m);
+        }
+        if (a < 10) {
+            sr = "0" + String.valueOf(a);
+        } else {
+            sr = String.valueOf(a);
+        }
+        System.out.println(h + ":" + mr + ":" + sr); //вывод
+
     }
+
 }
 
