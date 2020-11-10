@@ -3,22 +3,25 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);//ввод
+        double a = in.nextDouble();
+        double b = in.nextDouble();
 
-        int number = in.nextInt();
-        int i = 2;
-        boolean bool = false;
-
-        while (i <= number / 2) {
-            if (number % i == 0) {
-                bool = true;
-                break;
-            }
-            i++;
+        if (a == 0){
+            if (b > 0)
+                System.out.println("any x");
+            else if (b <= 0)
+                System.out.println("no such x");
         }
-        if (!bool) {
-            System.out.println("prime");
-            return;
+        else if (a < 0 && b < 0)
+            System.out.println("no such x");
+        else if (b > 0 && a > 0)
+            System.out.println("any x");
+        else {
+            String buffer1 = String.format("%.1f", b/a);
+            String buffer2 = String.format("%.1f", -1*b/a);
+            if (a > 0)
+                System.out.println("x<" + buffer1 + " or x>" + buffer2);
+            else System.out.println(buffer1 + "<x<" + buffer2);
         }
-        System.out.println("composite");
     }
 }
