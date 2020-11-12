@@ -51,30 +51,54 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1605001452281">
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1605216920737">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1605001452281" />
-    <state width="1397" height="242" key="GridCell.Tab.0.center" timestamp="1605001452281">
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1605216920737" />
+    <state width="1397" height="242" key="GridCell.Tab.0.center" timestamp="1605216920737">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1605001452281" />
-    <state width="1397" height="242" key="GridCell.Tab.0.left" timestamp="1605001452281">
+    <state width="1397" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1605216920737" />
+    <state width="1397" height="242" key="GridCell.Tab.0.left" timestamp="1605216920737">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1605001452281" />
-    <state width="1397" height="242" key="GridCell.Tab.0.right" timestamp="1605001452281">
+    <state width="1397" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1605216920737" />
+    <state width="1397" height="242" key="GridCell.Tab.0.right" timestamp="1605216920737">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1605001452281" />
+    <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1605216920737" />
+    <state width="1397" height="300" key="GridCell.Tab.1.bottom" timestamp="1605047984153">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1605047984153" />
+    <state width="1397" height="300" key="GridCell.Tab.1.center" timestamp="1605047984153">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1605047984153" />
+    <state width="1397" height="300" key="GridCell.Tab.1.left" timestamp="1605047984153">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1605047984153" />
+    <state width="1397" height="300" key="GridCell.Tab.1.right" timestamp="1605047984153">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1605047984153" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1605095676740">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1440.920@0.0.1440.920" timestamp="1605095676740" />
     <state x="270" y="197" width="900" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603713144035">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="270" y="197" width="900" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.920@0.0.1440.920" timestamp="1603713144035" />
-    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1604920013218">
+    <state x="377" y="211" key="run.anything.popup" timestamp="1605121745371">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1604920013218" />
+    <state x="377" y="211" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1605121745371" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1605091586565">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1605091586565" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
